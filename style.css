@@ -1,0 +1,17 @@
+h1{
+    color: pink;
+    background-color: #383838;
+    text-align: center;
+    padding: 10px 10px 10px 10px
+}
+
+img{
+    float: left;
+    border: 10px solid black;
+    margin: 10px 50px 10px 10px;
+    box-shadow: 10px 10px 0px 0px green
+}
+
+.right{
+    padding: 0px 10px 0px 0px;
+}
